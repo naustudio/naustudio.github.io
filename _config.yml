@@ -1,0 +1,10 @@
+title: Nau Code
+description: Nau Studio code documentation hub
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false

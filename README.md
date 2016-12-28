@@ -1,2 +1,2 @@
-# naustudio.github.io
-Nau Studio github page
+# code.naustud.io
+Nau Studio Code Documentation page
