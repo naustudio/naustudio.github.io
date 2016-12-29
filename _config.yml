@@ -1,7 +1,7 @@
 title: Nau Code
-description: Nau Studio code documentation hub
+description: Nau studio code documentation hub
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 markdown: kramdown
 highlighter: rouge
