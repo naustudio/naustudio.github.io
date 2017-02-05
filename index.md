@@ -12,6 +12,14 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
   + Sublime Text 3
   + VSCode
 
+- [Yeoman NauJS Generators](https://www.npmjs.com/package/generator-naujs):
+  + Install: `npm install --global yo generator-naujs`
+  + Generators:
+    - `yo naujs`: NAU 2017 project workflow setup
+    - `yo naujs:gulp`: generate basic gulpfile and install its dependencies
+    - `yo naujs:gulp-iconfont`: add gulp iconfont task and install its dependencies
+    - `yo naujs:dotfiles`: add dotfiles config for projects (can be used alone)
+
 ## Open Source
 
 - __Banh Chung Xanh__: Meteor web app, sokoban-like online game
