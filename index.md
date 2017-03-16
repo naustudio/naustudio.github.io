@@ -3,6 +3,8 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
 ## Conventions
 
 - [JavaScript Style Guide](https://naustudio.github.io/javascript/)
+  - ESLint config [Nau Base](https://www.npmjs.com/package/eslint-config-nau)
+  - ESLint config [Nau React projects](https://www.npmjs.com/package/eslint-config-nau-react)
 - [HTML & CSS Code Guide](https://naustudio.github.io/code-guide/)
 
 ## Working Environment Configuration
