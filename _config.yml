@@ -1,5 +1,6 @@
 title: Nau Code
-description: Nau studio code documentation hub
+description: Nau Studio code documentation hub
+image: https://code.naustud.io/nau-code.png
 
 theme: jekyll-theme-slate
 
@@ -8,3 +9,6 @@ highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
+
+gems:
+  - jekyll-seo-tag
