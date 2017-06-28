@@ -1,5 +1,9 @@
 ---
 title: NAU Code - Nau Studio code documentation hub
+image:
+  path: /cover.png
+  height: 341
+  width: 845
 ---
 Welcome to Nau Code, collection of conventions, workflows documentation and open source projects by [Nau Studio](https://nautud.io) team.
 
