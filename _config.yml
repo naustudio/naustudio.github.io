@@ -1,9 +1,18 @@
-title: Nau Code
+# Site
+title: NAU Code
 description: Nau Studio code documentation hub
-image: https://code.naustud.io/nau-code.png
+image: https://code.naustud.io/cover.png
+url: http://code.naustud.io
 
-theme: jekyll-theme-slate
+# SEO
+twitter:
+  username: naustudio
+facebook:
+  publisher: nau.creative
+author: naustudio
 
+# Setup
+show_downloads: false
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -12,3 +21,5 @@ kramdown:
 
 gems:
   - jekyll-seo-tag
+
+google_analytics: UA-46467058-3
