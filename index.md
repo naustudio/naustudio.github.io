@@ -34,6 +34,7 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
 - [__node-vn-payments__](https://github.com/naustudio/node-vn-payments) [![npm version](https://img.shields.io/npm/v/vn-payments.svg)](https://www.npmjs.com/package/vn-payments): NodeJS library to support building checkout URL for Vietnam-based online payment gateways.
   + [API Documentation](https://code.naustud.io/node-vn-payments/)
   + [Demo site](https://vn-payments-demo.now.sh/)
+- [Nau's Modified __Keystone CMS__](https://github.com/naustudio/keystone) [![npm version](https://img.shields.io/npm/v/@naustudio/keystone.svg)](https://www.npmjs.com/package/@naustudio/keystone): A modified version of Keystone to support multi language, new local image field... Note: documentation is needed.
 - [__Nau Jukebox__](https://github.com/naustudio/nau-jukebox): Meteor web app, online jukebox (songs from Youtube, Soundcloud, NCT...)
   + [Live Site](https://jukebox.naustud.io)
 - [__Nau Tab__](https://github.com/trongthanh/nau-chrome-tab): Chrome new tab alternative

@@ -119,6 +119,12 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+/* inline image badges */
+a > img {
+  padding: 0 10px;
+  margin: 0;
+}
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
@@ -172,6 +178,7 @@ pre {
   padding: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
+  tab-size: 4;
 }
 
 code {
