@@ -18,8 +18,8 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
 
 - [Nau dotfiles](https://github.com/naustudio/dotfiles) for:
   + macOS
+  + VSCode _(our current preferred code editor)_
   + Sublime Text 3
-  + VSCode
 
 - [Yeoman NauJS Generators](https://www.npmjs.com/package/generator-naujs):
   + Install: `npm install --global yo generator-naujs`
@@ -31,8 +31,9 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
 
 ## Open Source
 
-- [__Banh Chung Xanh__](https://github.com/naustudio/banh-chung-xanh): Meteor web app, sokoban-like online game
-  + [Live site](https://banhchungxanh.naustud.io/vi)
+- [__node-vn-payments__](https://github.com/naustudio/node-vn-payments) [![npm version](https://img.shields.io/npm/v/vn-payments.svg)](https://www.npmjs.com/package/vn-payments): NodeJS library to support building checkout URL for Vietnam-based online payment gateways.
+  + [API Documentation](https://code.naustud.io/node-vn-payments/)
+  + [Demo site](https://vn-payments-demo.now.sh/)
 - [__Nau Jukebox__](https://github.com/naustudio/nau-jukebox): Meteor web app, online jukebox (songs from Youtube, Soundcloud, NCT...)
   + [Live Site](https://jukebox.naustud.io)
 - [__Nau Tab__](https://github.com/trongthanh/nau-chrome-tab): Chrome new tab alternative
@@ -40,4 +41,6 @@ Welcome to Nau Code, collection of conventions, workflows documentation and open
   + [Landing Page](https://naustud.io/start)
 - [__Tech Stack__](https://github.com/naustudio/techstack): Nau tech stack forced diagram using D3 & SVG
   + [Live Site](https://naustud.io/tech-stack/)
+- [__Banh Chung Xanh__](https://github.com/naustudio/banh-chung-xanh): Meteor web app, sokoban-like online game
+  + [Live site](https://banhchungxanh.naustud.io/vi)
 - [__Info to Speech__](https://github.com/trongthanh/info-to-speech), code name 'chị Ba': weather forecast and care talks which is spoken out loud with synthesized Vietnamese speech from Google TTS.

@@ -1,4 +1,6 @@
 # code.naustud.io
+[![By Nau Studio](https://img.shields.io/badge/By-Nau%20Studio-977857.svg)](https://naustud.io)
+
 Nau Studio Code Documentation page
 
 
